@@ -1,24 +1,16 @@
 YelpCamp 🌲🏕️
-
 YelpCamp is a full-stack web application that allows users to explore, create, and review campgrounds. Users can register, log in, add new campgrounds with details, and share their experiences through reviews and ratings.
 
 🚀 Live Demo
-
 👉 https://yelpcamp-project-txs9.onrender.com
 
 ✨ Features
-
-User authentication (Register / Login / Logout)
-
-Create, edit, and delete campgrounds
-
-Add reviews and ratings for campgrounds
-
-Authorization to protect user actions
-
-Responsive UI for better user experience
-
-CRUD operations with database integration
+1. User authentication (Register / Login / Logout)
+2. Create, edit, and delete campgrounds
+3. Add reviews and ratings for campgrounds
+4. Authorization to protect user actions
+5. Responsive UI for better user experience
+6. CRUD operations with database integration
 
 🛠️ Tech Stack
 Frontend: HTML, CSS, Bootstrap, EJS
