@@ -25,3 +25,19 @@ Practiced full CRUD functionality
 Gained hands-on experience with authentication & authorization
 Learned database relationships using MongoDB & Mongoose
 Understood deployment of full-stack applications
+
+## 📸 Screenshots
+### Home Page
+![Home Page](screenshots/Screenshot%20(225).png)
+
+### Campgrounds Listing
+![Campgrounds](screenshots/Screenshot%20(226).png)
+
+### Campground Details & Reviews
+![Campground Details](screenshots/Screenshot%20(227).png)
+
+### Login Page
+![Login](screenshots/Screenshot%20(228).png)
+
+### Register Page
+![Register](screenshots/Screenshot%20(229).png)
