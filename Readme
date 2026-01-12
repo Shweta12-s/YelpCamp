@@ -1,0 +1,35 @@
+YelpCamp 🌲🏕️
+
+YelpCamp is a full-stack web application that allows users to explore, create, and review campgrounds. Users can register, log in, add new campgrounds with details, and share their experiences through reviews and ratings.
+
+🚀 Live Demo
+
+👉 https://yelpcamp-project-txs9.onrender.com
+
+✨ Features
+
+User authentication (Register / Login / Logout)
+
+Create, edit, and delete campgrounds
+
+Add reviews and ratings for campgrounds
+
+Authorization to protect user actions
+
+Responsive UI for better user experience
+
+CRUD operations with database integration
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, Bootstrap, EJS
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: Passport.js
+Deployment: Render
+
+📚 Learning Outcomes
+Implemented RESTful routing
+Practiced full CRUD functionality
+Gained hands-on experience with authentication & authorization
+Learned database relationships using MongoDB & Mongoose
+Understood deployment of full-stack applications
